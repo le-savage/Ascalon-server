@@ -46,7 +46,7 @@ import com.janus.world.entity.impl.player.Player;
 import com.janus.world.entity.impl.player.PlayerHandler;
 import com.janus.world.entity.impl.player.PlayerSaving;
 import mysql.MySQLController;
-import sun.lwawt.macosx.CSystemTray;
+
 
 /**
  * This packet listener manages commands a player uses by using the command
